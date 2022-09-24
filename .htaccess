@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Restricted access"​
-AuthUserFile "/app/matahi/.htpasswd"​
-Require valid-user​
